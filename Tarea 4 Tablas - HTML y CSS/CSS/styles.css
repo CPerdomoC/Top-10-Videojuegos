@@ -33,11 +33,10 @@ tbody tr:nth-child(odd) {
 }
 
 tbody tr:nth-child(even) {
-    background-color: #dcdde1;
+    background-color: #dce0f0;
 }
 
 tbody tr:hover {
     background-color: #74b9ff;
     color: white;
-    cursor: pointer;
 }
